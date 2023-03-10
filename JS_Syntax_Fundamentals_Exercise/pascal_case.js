@@ -8,11 +8,3 @@ splitPascalCase('HoldTheDoor')
 splitPascalCase('SplitMeIfYouCanHaHaYouCantOrYouCan')
 
 
-// function for summing ten numbers in a row
-function sumTenNumbers() {
-    let sum = 0;
-    for (let i = 0; i < 10; i++) {
-        sum += i;
-    }
-    return sum;
-}
